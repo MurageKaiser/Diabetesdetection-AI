@@ -1,5 +1,0 @@
-tensorflow
-numpy
-fastapi
-uvicorn
-pydantic
